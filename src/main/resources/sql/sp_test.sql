@@ -1,0 +1,1 @@
+CREATE ALIAS TESTPROCEDURE FOR "it.eurobet.vegas.dummyserver.procedures.StoredProcedures.test_procedure"
