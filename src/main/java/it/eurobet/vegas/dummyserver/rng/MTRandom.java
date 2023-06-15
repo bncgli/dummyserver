@@ -1,4 +1,4 @@
-package it.eurobet.vegas.american.rng;
+package it.eurobet.vegas.dummyserver.rng;
 /*
  * MTRandom : A Java implementation of the MT19937 (Mersenne Twister)
  *            pseudo random number generator algorithm based upon the

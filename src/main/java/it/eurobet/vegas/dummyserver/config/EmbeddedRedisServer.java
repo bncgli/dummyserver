@@ -1,9 +1,6 @@
-package it.eurobet.vegas.american.repository.redis;
+package it.eurobet.vegas.dummyserver.config;
 
-import it.eurobet.vegas.american.config.redis.RedisProperties;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import redis.embedded.RedisServer;
 
