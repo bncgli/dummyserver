@@ -1,1 +1,1 @@
-CREATE ALIAS TESTPROCEDURE FOR "it.eurobet.vegas.dummyserver.procedures.StoredProcedures.test_procedure"
+CREATE ALIAS IF NOT EXISTS ROM_STORE_DATA DETERMINISTIC FOR "it.eurobet.vegas.dummyserver.procedures.StoredProcedures.input_reader";
